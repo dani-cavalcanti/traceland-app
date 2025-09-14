@@ -1,10 +1,12 @@
 # 🚀 Traceland App
 
-![Logo Traceland](https://i.imgur.com/your-logo-here.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dani-cavalcanti/traceland-app/master/assets/Traceland.png" alt="Logo Traceland, um design minimalista com óculos de IA e o nome da marca." width="250" />
+</div>
 
 ## 🎯 Visão Geral
 
-Este projeto é uma aplicação web para a organização de tarefas, inspirada no Trello, e faz parte de uma demonstração para a palestra **"Como se tornar um SDET Aumentado com IA"** no TDC. A aplicação, chamada **Traceland**, foi desenvolvida para ilustrar o papel de um agente de IA, a **Trace**, na automação de tarefas de qualidade e no ciclo de desenvolvimento.
+Este projeto é uma aplicação web para a organização de tarefas, inspirada no Trello, e faz parte de uma demonstração para a palestra **"Como se tornar um SDET Aumentado com IA"** no TDC. A aplicação, chamada **Traceland**, foi desenvolvida para ilustrar o papel de uma agente de IA, a **Trace**, na automação de tarefas de qualidade e no ciclo de desenvolvimento.
 
 A Trace interage diretamente com este código, executando testes, analisando requisitos e decifrando falhas, mostrando como a IA pode aumentar a produtividade e a precisão do trabalho de um SDET.
 
