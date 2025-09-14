@@ -33,7 +33,7 @@ Para rodar o projeto localmente, siga os passos abaixo:
 
 1.  Clone este repositório para a sua máquina:
     ```bash
-    git clone [https://github.com/dani-cavalcanti/traceland-app.git](https://github.com/dani-cavalcanti/traceland-app.git)
+    git clone https://github.com/dani-cavalcanti/traceland-app.git
     cd traceland-app
     ```
 2.  Instale as dependências:
