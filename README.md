@@ -51,7 +51,7 @@ Para rodar o projeto localmente, siga os passos abaixo:
 A qualidade deste projeto é assegurada pela **Trace**, uma agente de IA que atua como um detetive de qualidade. Os testes automatizados para esta aplicação estão localizados em um repositório separado e são executados pela Trace como parte de seu processo de validação.
 
 - **Link para o Repositório de Testes:**
-  [**traceland-tests** - (link para o seu repositório de testes aqui)](https://github.com/dani-cavalcanti/traceland-tests)
+  [**traceland-tests** ](https://github.com/dani-cavalcanti/traceland-tests)
 
 A Trace utiliza ferramentas como **Jest** e **React Testing Library** para verificar os critérios de aceitação, garantindo que o `layout`, a `responsividade` e a `funcionalidade` da tela principal estejam conforme o esperado.
 
